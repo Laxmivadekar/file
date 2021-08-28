@@ -1,0 +1,113 @@
+a=input('enter the name')
+i=0
+b=''
+while i<len(a):
+    if a[i]=='A':
+        b+=str(1)
+    elif a[i]=='B':
+        b+=str(2)
+    elif a[i]=='C':
+        b+=str(3)
+    elif a[i]=='D':
+        b+=str(4)
+    elif a[i]=='E':
+        b+=str(5)
+    elif a[i]=='F':
+        b+=str(6)
+    elif a[i]=='G':
+        b+=str(7)
+    elif a[i]=='H':
+        b+=str(8)
+    elif a[i]=='I':
+        b+=str(9)
+    elif a[i]=='J':
+        b+=str(10)
+    elif a[i]=='K':
+        b+=str(11)
+    elif a[i]=='L':
+        b+=str(12)
+    elif a[i]=='M':
+        b+=str(13)
+    elif a[i]=='N':
+        b+=str(14)
+    elif a[i]=='O':
+        b+=str(15)
+    elif a[i]=='P':
+        b+=str(16)
+    elif a[i]=='Q':
+        b+=str(17)
+    elif a[i]=='R':
+        b+=str(18)
+    elif a[i]=='S':
+        b+=str(19)
+    elif a[i]=='T':
+        b+=str(20)
+    elif a[i]=='U':
+        b+=str(21)
+    elif a[i]=='V':
+        b+=str(22)
+    elif a[i]=='W':
+        b+=str(23)
+    elif a[i]=='X':
+        b+=str(24)
+    elif a[i]=='Y':
+        b+=str(25)
+    elif a[i]=='Z':
+        b+=str(26)
+    elif a[i]=='a':
+        b+=str(1)
+    elif a[i]=='b':
+        b+=str(2)
+    elif a[i]=='C':
+        b+=str(3)
+    elif a[i]=='d':
+        b+=str(4)
+    elif a[i]=='e':
+        b+=str(5)
+    elif a[i]=='f':
+        b+=str(6)
+    elif a[i]=='g':
+        b+=str(7)
+    elif a[i]=='h':
+        b+=str(8)
+    elif a[i]=='i':
+        b+=str(9)
+    elif a[i]=='j':
+        b+=str(10)
+    elif a[i]=='k':
+        b+=str(11)
+    elif a[i]=='l':
+        b+=str(12)
+    elif a[i]=='m':
+        b+=str(13)
+    elif a[i]=='n':
+        b+=str(14)
+    elif a[i]=='o':
+        b+=str(15)
+    elif a[i]=='p':
+        b+=str(16)
+    elif a[i]=='q':
+        b+=str(17)
+    elif a[i]=='r':
+        b+=str(18)
+    elif a[i]=='s':
+        b+=str(19)
+    elif a[i]=='t':
+        b+=str(20)
+    elif a[i]=='u':
+        b+=str(21)
+    elif a[i]=='v':
+        b+=str(22)
+    elif a[i]=='w':
+        b+=str(23)
+    elif a[i]=='x':
+        b+=str(24)
+    elif a[i]=='y':
+        b+=str(25)
+    elif a[i]=='z':
+        b+=str(26)
+    i=i+1
+print(b)
+
+    
+    
